@@ -8,7 +8,7 @@ The goal was to move beyond basic classification and implement domain-specific l
 ## 🛠️ Key Hacker Logic Implemented
 * **Title Extraction:** Extracted titles (Mr, Miss, Master, Rare) from names to capture social status and the "Women and Children First" maritime protocol.
 * **Smarter Imputation:** Filled missing Age values based on the median age of specific Title groups rather than a global average.
-* **Family Dynamics:** Created a `FamilySize` feature to account for the fact that families often survived or perished together.
+* **Family Dynamics:** Created a `FamilySize` feature to account for the fact that families often survived or perished together
 * **Fare Binning:** Categorized fares into bins to reduce the noise from outliers and improve model generalization.
 
 ## 📊 Technical Stack
