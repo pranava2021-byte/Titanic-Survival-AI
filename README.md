@@ -19,4 +19,5 @@ The goal was to move beyond basic classification and implement domain-specific l
 ## 🏆 Achievement
 * **Kaggle Competitive Score:** Top Tier Rank
 * **Portfolio Status:** Active Research Project
+
 * 
